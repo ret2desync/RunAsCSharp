@@ -1,0 +1,8 @@
+C:\Users\caellij\Tools\CustomScripts\RunAsCSharp\RunAsCSharp\bin\x64\Release\RunAsCSharp.exe.config
+C:\Users\caellij\Tools\CustomScripts\RunAsCSharp\RunAsCSharp\bin\x64\Release\RunAsCSharp.exe
+C:\Users\caellij\Tools\CustomScripts\RunAsCSharp\RunAsCSharp\bin\x64\Release\RunAsCSharp.pdb
+C:\Users\caellij\Tools\CustomScripts\RunAsCSharp\RunAsCSharp\obj\x64\Release\RunAsCSharp.csproj.AssemblyReference.cache
+C:\Users\caellij\Tools\CustomScripts\RunAsCSharp\RunAsCSharp\obj\x64\Release\RunAsCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\caellij\Tools\CustomScripts\RunAsCSharp\RunAsCSharp\obj\x64\Release\RunAsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\caellij\Tools\CustomScripts\RunAsCSharp\RunAsCSharp\obj\x64\Release\RunAsCSharp.exe
+C:\Users\caellij\Tools\CustomScripts\RunAsCSharp\RunAsCSharp\obj\x64\Release\RunAsCSharp.pdb
